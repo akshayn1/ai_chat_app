@@ -15,7 +15,7 @@ A **Flutter-based** AI Chat App that enables real-time conversations with an AI 
 ## 🛠️ Tech Stack
 🚀 **Flutter** (Frontend)  
 ⚡ **Dart** (Programming Language)  
-🧠 **AI API (e.g., OpenAI, Dialogflow, etc.)**  
+🧠 **AI API (e.g., OpenAI, Gemini, etc.)**  
 💾 **Hive / Firebase** (For chat history storage)  
 🎨 **Modern UI/UX Design**  
 
